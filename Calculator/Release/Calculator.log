@@ -1,0 +1,11 @@
+﻿  calculations.cpp
+C:\Users\user\source\repos\Calculator\Calculator\calculations.cpp(133): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Calculator\Calculator\calculations.cpp(150): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Calculator\Calculator\calculations.cpp(204): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Calculator\Calculator\calculations.cpp(219): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 246 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Calculator.vcxproj -> C:\Users\user\source\repos\Calculator\Release\Calculator.exe
